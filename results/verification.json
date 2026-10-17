@@ -1,0 +1,11 @@
+{
+  "exhaustive_binary_fusions": 4096,
+  "integer_fusions": 400,
+  "assignment_instances": 500,
+  "assignment_solver_runs": 3000,
+  "separation_example": true,
+  "metamorphic_cases": 100,
+  "antichain_vectors": 64,
+  "menu_limitation": true,
+  "runtime_nonmonotonicity": true
+}

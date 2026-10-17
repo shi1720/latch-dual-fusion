@@ -1,0 +1,116 @@
+[
+  {
+    "family": "block",
+    "shifted": false,
+    "n": 720,
+    "best_gap": 30.0375,
+    "latch_gap": 24.580555555555556,
+    "reduction_percent": 18.16710593239932,
+    "strict": 708,
+    "ties": 12,
+    "lower_loops": 403,
+    "equal_loops": 99,
+    "higher_loops": 218,
+    "loop_ratio": 0.9763318197124166,
+    "time_ratio_median": 1.8739268049864735,
+    "bank_reduction_range": [
+      17.179023508137426,
+      19.33649289099526
+    ]
+  },
+  {
+    "family": "block",
+    "shifted": true,
+    "n": 720,
+    "best_gap": 141.72222222222223,
+    "latch_gap": 129.99027777777778,
+    "reduction_percent": 8.278126225009807,
+    "strict": 588,
+    "ties": 132,
+    "lower_loops": 356,
+    "equal_loops": 191,
+    "higher_loops": 173,
+    "loop_ratio": 0.9807880276936244,
+    "time_ratio_median": 1.937361160290581,
+    "bank_reduction_range": [
+      5.5986899686608975,
+      9.955725376031054
+    ]
+  },
+  {
+    "family": "spatial",
+    "shifted": false,
+    "n": 720,
+    "best_gap": 138.5625,
+    "latch_gap": 110.82222222222222,
+    "reduction_percent": 20.02004711071017,
+    "strict": 706,
+    "ties": 14,
+    "lower_loops": 431,
+    "equal_loops": 62,
+    "higher_loops": 227,
+    "loop_ratio": 0.959866256363494,
+    "time_ratio_median": 2.093057021289771,
+    "bank_reduction_range": [
+      19.653582478917663,
+      20.45771869119165
+    ]
+  },
+  {
+    "family": "spatial",
+    "shifted": true,
+    "n": 720,
+    "best_gap": 169.23194444444445,
+    "latch_gap": 144.61666666666667,
+    "reduction_percent": 14.545290405180268,
+    "strict": 652,
+    "ties": 68,
+    "lower_loops": 383,
+    "equal_loops": 91,
+    "higher_loops": 246,
+    "loop_ratio": 0.9730484711723998,
+    "time_ratio_median": 1.9563825977508458,
+    "bank_reduction_range": [
+      14.268935762224356,
+      14.928260924190262
+    ]
+  },
+  {
+    "family": "iid",
+    "shifted": false,
+    "n": 720,
+    "best_gap": 61.24027777777778,
+    "latch_gap": 51.763888888888886,
+    "reduction_percent": 15.474111536978663,
+    "strict": 705,
+    "ties": 15,
+    "lower_loops": 425,
+    "equal_loops": 45,
+    "higher_loops": 250,
+    "loop_ratio": 0.9697361778119481,
+    "time_ratio_median": 2.7308239943893815,
+    "bank_reduction_range": [
+      14.876473330225737,
+      16.372970722908274
+    ]
+  },
+  {
+    "family": "iid",
+    "shifted": true,
+    "n": 720,
+    "best_gap": 143.47916666666666,
+    "latch_gap": 135.14166666666668,
+    "reduction_percent": 5.81094816320602,
+    "strict": 678,
+    "ties": 42,
+    "lower_loops": 356,
+    "equal_loops": 94,
+    "higher_loops": 270,
+    "loop_ratio": 0.9930688179761357,
+    "time_ratio_median": 2.4925731337024315,
+    "bank_reduction_range": [
+      5.500425290615263,
+      6.026399092157919
+    ]
+  }
+]

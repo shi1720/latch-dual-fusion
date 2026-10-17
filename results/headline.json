@@ -1,0 +1,12 @@
+{
+  "instances": 4320,
+  "solver_runs": 47520,
+  "strict": 4037,
+  "ties": 283,
+  "median_fusion_ms": 1.3811244999990535,
+  "lower_loops": 2354,
+  "equal_loops": 582,
+  "higher_loops": 1384,
+  "median_pipeline_ratio": 2.102773126007675,
+  "median_scipy_seconds": 2.939550000169433e-05
+}
